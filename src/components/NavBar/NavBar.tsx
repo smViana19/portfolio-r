@@ -25,9 +25,6 @@ const NavBar: React.FC = () => {
                         <StyledLink to={'/sobre'}>About</StyledLink>
                     </MenuItem>
                     <MenuItem>
-                        <StyledLink to={'/habilidades'}>Skills</StyledLink>
-                    </MenuItem>
-                    <MenuItem>
                         <StyledLink to={'/projetos'}>Projects</StyledLink>
                     </MenuItem>
                 </StyledToolBar>
